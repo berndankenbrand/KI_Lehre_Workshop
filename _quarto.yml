@@ -8,7 +8,7 @@ lang: de
 book:
   title: "Schneller, schöner, stressfreier Lehren"
   subtitle: "Vom Recherchieren zur interaktiven Vorlesung"
-  author: "Prof. Dr. Christian Kraus"
+  author: "Prof. Dr. Christian Kraus and Prof. Dr. Bernd Ankenbrand"
   date: "last-modified"
   chapters:
     - index.qmd

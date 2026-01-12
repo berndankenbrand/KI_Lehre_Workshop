@@ -14,7 +14,7 @@ Perplexity ist im KI-Ökosystem ein Spezialist: Es optimiert nicht primär die G
 Das ist genau der Punkt, an dem Hochschullehre oft scheitert: Studierende lesen selten die Originale, sondern leben von Sekundär- und Tertiärverwertungen. Perplexity kann dieses Verhalten verstärken — oder, richtig eingesetzt, unterlaufen. Denn seine Stärke liegt darin, dass es Antworten **mit Quellen** koppelt und damit die Tür zur akademischen Norm öffnet: *Behauptungen brauchen Belege.*
 
 ::: {.drag-exercise}
-Perplexity ist vor allem ein *Recherche*-Werkzeug: Es liefert quellenbasierte *Synthesen*, während generative Systeme stärker auf *Textproduktion* und *Ideenentwicklung* optimiert sind.
+Perplexity ist vor allem ein *Recherche*-Werkzeug: Es liefert quellenbasierte *Synthesen*, während generative Systeme stärker auf *Text*-produktion und kreative *Ideen*-entwicklung optimiert sind.
 :::
 
 ## Das Funktionsprinzip: Von der Frage zur Recherchekette
